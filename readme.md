@@ -23,7 +23,6 @@ The following spaces are governed by the team:
 
 *   GitHub: [github.com/micromark](https://github.com/micromark)
 *   npm: [npmjs.com/~micromark](https://www.npmjs.com/org/micromark)
-*   Spectrum: [spectrum.chat/unified/micromark](https://spectrum.chat/unified/micromark)
 
 ## License
 
@@ -39,12 +38,12 @@ The following spaces are governed by the team:
 
 [team]: https://github.com/unifiedjs/collective#micromark-team
 
-[decisions-policy]: https://github.com/unifiedjs/collective/blob/master/decisions.md
+[decisions-policy]: https://github.com/unifiedjs/collective/blob/main/decisions.md
 
-[members-policy]: https://github.com/unifiedjs/collective/blob/master/members.md
+[members-policy]: https://github.com/unifiedjs/collective/blob/main/members.md
 
-[moderation-policy]: https://github.com/unifiedjs/collective/blob/master/moderation.md
+[moderation-policy]: https://github.com/unifiedjs/collective/blob/main/moderation.md
 
-[organizations-policy]: https://github.com/unifiedjs/collective/blob/master/organizations.md
+[organizations-policy]: https://github.com/unifiedjs/collective/blob/main/organizations.md
 
-[permissions-policy]: https://github.com/unifiedjs/collective/blob/master/permissions.md
+[permissions-policy]: https://github.com/unifiedjs/collective/blob/main/permissions.md
